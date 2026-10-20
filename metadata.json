@@ -1,0 +1,6 @@
+{
+  "name": "One Small Space",
+  "description": "A calm, non-judgmental AI decluttering companion that breaks overwhelmed rooms into one tiny, achievable micro-action at a time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
